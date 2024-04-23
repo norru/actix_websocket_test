@@ -1,0 +1,12 @@
+[package]
+name = "actix_websocket_test"
+version = "0.1.0"
+edition = "2018"
+
+[dev-dependencies]
+
+[dependencies]
+jobserver = "0.1.31"
+actix-web-actors = "*"
+actix-web = "4.5.1"
+actix = "0.13.3"
