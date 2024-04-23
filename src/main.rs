@@ -1,3 +1,5 @@
+// https://docs.rs/actix-web-actors/4.3.0/actix_web_actors/
+// Apache 2.0 license
 use actix::{Actor, StreamHandler};
 use actix_web::{get, web, App, Error, HttpRequest, HttpResponse, HttpServer};
 use actix_web_actors::ws;
